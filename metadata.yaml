@@ -1,0 +1,39 @@
+_repo: The-Best-Short-Stories-of-1919and-the-Yearbook-of-the-American-Short-Story_23445
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: O'Brien, Edward Joseph Harrington
+    alias: Harrington, Joseph F.
+    birthdate: 1890
+    deathdate: 1941
+    gutenberg_agent_id: '3022'
+    url: http://www.gutenberg.org/2009/agents/3022
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Joseph_Harrington_O'Brien
+description: ''
+gutenberg_issued: '2007-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American fiction -- 20th century'
+- !lcsh 'Short stories, American'
+tableOfContents: The kitchen gods / G.F. Alsop -- An awakening / Sherwood Anderson
+  -- Willum's vanilla / Edwina Stanton Babcock -- A night among the horses / Djuna
+  Barnes -- Long, long ago / Frederick Orin Bartlett -- Dishes / Agnes Mary Brownell
+  -- The blood-red one / Maxwell Struthers Burt -- The wedding-jest / James Branch
+  Cabell -- The wrists on the door / Horace Fish -- "Government goat" / Susan Glaspell
+  -- The stone / Henry Goodman -- To the bitter end / Richard Matthews Hallet -- The
+  Meeker ritual / Joseph Hergesheimer -- The centenarian / Will E. Ingersoll -- Messengers
+  / Calvin Johnston -- Mrs. Drainger's veil / Howard Mumford Jones -- Under a wine-glass
+  / Ellen N. La Motte -- A thing of beauty / Elias Lieberman -- The other room / Mary
+  Heaton Vorse -- "The fat of the land" / Anzia Yezierska.
+title: The Best Short Stories of 1919, and the Yearbook of the American Short Story
+url: http://www.gutenberg.org/ebooks/23445
